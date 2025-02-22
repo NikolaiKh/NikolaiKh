@@ -2,7 +2,7 @@
 🔭 I’m сurrently a postdoctoral fellow studying antiferromagnets with ultrafast optical and THz spectroscopy.
 My GitHub containes codes to control lab equipment, to automatize micromagnetic simulations (OOMMF), some pet projects.
 
-You may find me on [LinkdIn](www.linkedin.com/in/khokhlovne)
+You may find me on [LinkdIn](https://www.linkedin.com/in/khokhlovne/)
 
 <!--
 **NikolaiKh/NikolaiKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
