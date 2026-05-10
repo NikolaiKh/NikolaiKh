@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m сurrently a postdoctoral fellow involved in experimental ultrafast optical and THz spectroscopy of antiferromagnets (see more on [my website](https://nkhokhlov.com/).
+🔭 I’m сurrently a postdoctoral fellow involved in experimental ultrafast optical and THz spectroscopy of antiferromagnets (see more on [my website](https://nkhokhlov.com/)).
 My GitHub containes codes to control lab equipment, to automatize micromagnetic simulations (OOMMF), some pet projects.
 
 You may find me on ![image](https://github.com/user-attachments/assets/20242dbc-168a-433c-8270-2b96c39e7545) [LinkdIn](https://www.linkedin.com/in/khokhlovne/)
